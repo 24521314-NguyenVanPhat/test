@@ -35,11 +35,6 @@ public:
 
     }
 };
-
-#define MINX 2
-#define MINY 2
-#define MAXX 35
-#define MAXX 20
 void VeKhung () {
 for (int i =MINX; i<=MAXX; i++){
     for (int j = MINY; j<=MAXY;j++)
