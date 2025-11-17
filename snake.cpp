@@ -3,6 +3,7 @@ Snake.cpp
 #include <windows.h>
 #include <cstdlib>
 #include <conio.h>
+
 using namespace std;
 void gotoxy( int column, int line );
 struct Point{
@@ -50,6 +51,7 @@ int main()
             if (t=='x') Huong = 1;
         }
         system("cls");
+        VeKhung();
         r.Ve();
         r.DiChuyen(Huong);
         Sleep(300);
