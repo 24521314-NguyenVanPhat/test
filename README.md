@@ -2,7 +2,7 @@
 
 ## **Introduction** 
 
--Sinh viên thực hiện đồ án:
+Sinh viên thực hiện đồ án:
 + Nguyễn Thị Quỳnh Như - 23521128
 + Nguyễn Văn Phát - 24521314.
 + Lê Văn Hữu Phúc - 24521381.
